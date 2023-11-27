@@ -1,0 +1,675 @@
+    1  /home/naledi_thamage/.hushlogin file
+    2  hushlogin
+    3  touch /home/naledi_thamage/ .hushlogin
+    4  touch
+    5  touch /home/naledi_thamage/ .hushlogin
+    6  help
+    7  *
+    8  touch /home/naledi_thamageMadduser: Please enter a username matching the regular expression configured
+    9  via the NAME_REGEX[_SYSTEM] configuration variable.  Use the `--force-badname'
+   10  option to relax this check or reconfigure NAME_REGEX.
+   11  Enter new UNIX username:naledi_thamage
+   12  git
+   13  git config --get user.name
+   14  sudo apt update
+   15  sudo apt upgrade
+   16  sudo add-apt-repository ppa:git-core/ppa
+   17  sudo apt update
+   18  sudo apt install git
+   19  git --version
+   20  git config --global user.name "naledi_thamage"
+   21  git config --global user.email "naledithamage@icloud.com"
+   22  git config --global init.defaultBranch main
+   23  git config --global pull.rebase false
+   24  git config --get user.name
+   25  --get user.email
+   26  git config --global user.email "naledithamage@icloud.com"
+   27  --get user.email
+   28  git config --get user.email
+   29  ssh-keygen -t ed25519 -C "naledithamage@icloud.com"
+   30  cat ~/ .ssh/id_ed25519.pub
+   31  mkdir OdinProject
+   32  cd OdinProject/
+   33  cod .
+   34  code .
+   35  cd OdinProject
+   36  code .
+   37  touch main.pi
+   38  touch main.py
+   39  code .
+   40  cd OdinProject
+   41  code .
+   42  git status
+   43  git add README.md
+   44  git status
+   45  git add .
+   46  git status
+   47  git commit -m "Edit README.md and hello_world.txt"
+   48  git log
+   49  mkdir repos
+   50  cd repos
+   51  git@github.com:naledithamage/git_test.git
+   52  git clone git@github.com:naledithamage/git_test.git
+   53  cd git_test
+   54  git remote -v
+   55  touch hello_world.txt
+   56  git status
+   57  git add hello_world.txt
+   58  git status
+   59  git commit -m "Add hello_world.txt"
+   60  git status
+   61  git log
+   62  code .
+   63  git status
+   64  git add README.md
+   65  git status
+   66  cd repos
+   67  mkdir repos
+   68  cd repos
+   69  git clonegit@github.com:naledithamage/git_test.git
+   70  mkdir
+   71  mkdir--help
+   72  mkdir --help
+   73  code .
+   74  mkdir htmlproject
+   75  mkdir html-boilerplate
+   76  cd html-boilerplate
+   77  nano index.html
+   78  goofle-chrome index.html
+   79  google-chrome index.html
+   80  start msedge "file:///C:/Users/naledi_thamage/
+   81  mkdir htmlboilerplate
+   82  cd htmlboilerplate
+   83  nano index.html
+   84  code .
+   85  cd index.htm
+   86  mkdir odin-links-and-images
+   87  cd odin-links-and-images
+   88  nano index.html
+   89  code .
+   90  cd odin-links-and-images
+   91  code htmlboilerplate
+   92  cd htmlboileplate
+   93  cd index.html
+   94  git add
+   95  git add README.md
+   96  git commit -m "create README.md"
+   97  git push
+   98  git add index.html
+   99  git commit -m "create index.html"
+  100  git push
+  101  git add recipes
+  102  git commit -m "create recipes"
+  103  git push
+  104  cd repos
+  105  ls 
+  106  git clone git@github.com:naledithamage/odin-recipes.git
+  107  ls 
+  108  cd odin-recipes
+  109  touch README.md
+  110  code .
+  111  history
+  112  code .
+  113  sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget
+  114  tar xvf Python-3.8.4.tgz
+  115  cd Python-3.8.4
+  116  ./configure --enable optimizations --with-ensurepip=install
+  117  ./configure --enable-optimizations
+  118  ./configure --enable-optimizations --with-ensurepip=install
+  119  wget https://www.python.org/ftp/python/3.12.0/Python-3.12.0a1.tgz
+  120  ./configure --enable-optimizations --with-ensurepip=install
+  121  make -j 8
+  122  autoreconf -f -i -Wall,no-obsolete libtoolize --force aclocal autoheader automake --force-missing--add-missing autoconf
+  123  cp /usr/share/automake-l.15/install-sh
+  124  cp --help
+  125  chmod a+x instal-sh
+  126  chmod a+x install-sh
+  127  python --version
+  128  python3 --version
+  129  lsb_release -a
+  130  sudo apt-get update
+  131  sudo apt-get install python3.8 python3-pip
+  132  wget https://www.python.org/ftp/python/3.8.4/Python-3.8.4.tgz
+  133  wget https://www.python.org/ftp/python3.8.4/Python-3.8.4.tgz
+  134  wget https://www.python.org/ftp/python/3.8.4/Python-3.8.4.tgz
+  135  sudo apt-get update
+  136  sudo apt-get upgrade
+  137  sudo apt-get install -y make build-essential libssl-dev zlib1g-dev \ libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \ libncurses5-dev libncursesw5-dev xz-utils tk-dev
+  138  lsb_release -a
+  139  sudo apt update
+  140  sudo apt-get install -y make build-essential libssl-dev zlib1g-dev \ libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \ libncurses5-dev libncursesw5-dev xz-utils tk-dev
+  141  sudo add-apt-repository universe multiverse
+  142  sudo apt update
+  143  sudo apt-get install -y make build-essential libssl-dev zlib1g-dev \ libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm \ libncurses-dev libncursesw5-dev xz-utils tk-dev
+  144  hwe-support-status --verbose
+  145  sudo apt-get update
+  146  sudo apt-get install python3.8 python3-pip
+  147  python3
+  148  sudo apt update
+  149  sudo apt install build-essential zlib1g-dev libncurses5dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget
+  150  sudo mkdir /python && cd /python
+  151  sudo wget https://www.python.ord/ftp/python/3.12.0/Python-3.12.0a1.tgz
+  152  sudo wget https://www.python,org/ftp/python/3.12.0a1.tgz
+  153  tar xvf Python-3.8.4.tgz
+  154  cd Python-3.8.4
+  155  sudo wget https://www.python.org/ftp/python/3.12.0/Python-3.12.0a1.tgz
+  156  sudo tar -xvf Python-3.12.0a1.tgz
+  157  cd Python-3.12.0a1
+  158  ./configure --enable-optimizations
+  159  sudo make install
+  160  python3 --version
+  161  python3.8 --version
+  162  python3 winning.py
+  163  code .
+  164  python3 --version
+  165  cd python
+  166  pwd
+  167  ls
+  168  python hello.py
+  169  idle3
+  170  important.md
+  171  > important.md
+  172  ls -l important.md
+  173  >> important.md
+  174  It is more important to understand the work, so that you can be in the top 1%. It is better to have the skill and knowledge for better application. ^D
+  175  cat important.md
+  176  gedit important.md
+  177  mkdir important.md
+  178  more important.md
+  179  /bin/python3 /home/naledi_thamage/umuzi_org/winning.py
+  180  python
+  181  python3
+  182  mkdir umuzi.org
+  183  mkdir umuzi_org
+  184  cd important.md
+  185  cd umuzi_org
+  186  touch important.md
+  187  code .
+  188  /bin/python3 /home/naledi_thamage/umuzi_org/winning.py
+  189  mary
+  190  /bin/python3 /home/naledi_thamage/umuzi_org/winning.py
+  191  mkdir test.folder
+  192  cd test.folder
+  193  mkdir pink
+  194  cd pink
+  195  touch s12.dxd
+  196  cd .. s12.dxd
+  197  cd ..
+  198  ls
+  199  rmdir pink
+  200  rm -i pink
+  201  rm -r
+  202  rm -r pink
+  203  ls
+  204  mkdir umuziquestions
+  205  cd umuziquestions
+  206  pwd 
+  207  code .
+  208  ls /
+  209  cd home
+  210  man cd
+  211  man pwd
+  212  cd umuziquestions
+  213  code .
+  214  man ls
+  215  /bin/python3 /home/naledi_thamage/umuziquestions/task1.py
+  216  /bin/python3 /home/naledi_thamage/umuziquestions/task2.py
+  217  /bin/python3 /home/naledi_thamage/umuziquestions/task3.py
+  218  7
+  219  /bin/python3 /home/naledi_thamage/umuziquestions/task3.py
+  220  /bin/python3 /home/naledi_thamage/umuziquestions/task4.py
+  221  /bin/python3 /home/naledi_thamage/umuziquestions/task5.py
+  222  /bin/python3 /home/naledi_thamage/umuziquestions/task6.py
+  223  /bin/python3 /home/naledi_thamage/umuziquestions/task7.py
+  224  /bin/python3 /home/naledi_thamage/umuziquestions/task8.py
+  225  /bin/python3 /home/naledi_thamage/umuziquestions/task9.py
+  226  '/home/naledi_thamage/umuziquestions/task9.py'/bin/python3 /home/naledi_thamage/umuziquestions/task10.py
+  227  /bin/python3 /home/naledi_thamage/umuziquestions/task10.py
+  228  /bin/python3 /home/naledi_thamage/umuziquestions/task8.py
+  229  /bin/python3 /home/naledi_thamage/umuziquestions/task10.py
+  230  git clone https://github.com/Umuzi-org/Naledi-Thamage-219-level-1-programming-katas-python.git
+  231  git clone git@github.com:Umuzi-org/Naledi-Thamage-219-level-1-programming-katas-python.git
+  232  cd Naledi-Thamage-219-level-1-programming-katas-python/
+  233  ls
+  234  git checkout main
+  235  git pull
+  236  git checkout -b task/1
+  237  code .
+  238  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task1.py
+  239  git add task1.py
+  240  git commit -m "Implement the multiples function in task 1"
+  241  git push
+  242  git push --set-upstream origin task/1
+  243  git add task1.py
+  244  git commit -m "Refactor parameter name to be more descriptive"
+  245  git add task1.py
+  246  git commit -m "Refractor index name to be more descriptive"
+  247  git push --set-upstream origin task/1
+  248  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task2.py
+  249  git add task2.py
+  250  git commit -m "Implement has three function in task 2"
+  251  git push --set-upstream origin task/2
+  252  git add task2.py
+  253  git commit -m "Remove function call at line 10 "
+  254  git push --set-upstream origin task/2
+  255  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task3.py
+  256  git add task3.py
+  257  git commit -m "Implement is sixty 5 function in task 3"
+  258  git push --set-upstream origin task/3
+  259  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task3.py
+  260  git add task3.py
+  261  git commit -m "Implement changes in task 3"
+  262  git push --set-upstream origin task/3
+  263  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task4.py
+  264  git add task4.py
+  265  git commit -m "Implement square function task 4"
+  266  git push --set-upstream origin task/4
+  267  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task5.py
+  268  git add task5.py
+  269  git commit -m "Implement triangle  function task 5"
+  270  git push --set-upstream origin task/5
+  271  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task6.py
+  272  git add task6.py
+  273  git commit -m "Implement longest function in task 6"
+  274  git push --set-upstream origin task/6
+  275  cd Naledi-Thamage-219-level-1-programming-katas-python /
+  276  cd Naledi-Thamage-219-level-1-programming-katas-python
+  277  ls
+  278  git checkout main
+  279  git pull
+  280  git checkout -b task/2
+  281  code .
+  282  git checkout task 1
+  283  git checkout task/1
+  284  ls
+  285  git branch
+  286  rm task1.py
+  287  rm task2.py
+  288  git checkout task/1
+  289  ls
+  290  code .
+  291  history
+  292  git checkout main
+  293  git pull
+  294  git checkout -b task/2
+  295  git checkout  task/2
+  296  ls
+  297  code .
+  298  git checkout main 
+  299  git pull
+  300  git checkout -b task/3
+  301  ls
+  302  code .
+  303  history
+  304  git checkout main
+  305  git stash
+  306  git checkout main
+  307  git pull
+  308  git checkout -b task/4
+  309  code .
+  310  git checkout main
+  311  git pull
+  312  git checkout -b task/5
+  313  code .
+  314  git checkout main
+  315  git stash
+  316  git checkout main
+  317  git pull
+  318  git checkout -b task/6
+  319  code .
+  320  git checkout main
+  321  git pull
+  322  git checkout -b task/7
+  323  code .
+  324  mkdir git-basic-exercises
+  325  cd git-basic-exercises
+  326  ls -a
+  327  git status
+  328  touch README.md
+  329  ls -a
+  330  git status
+  331  git log
+  332  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/task7.py
+  333  git add task7.py
+  334  git commit -m "Implement combine function in task 7"
+  335  git push --set-upstream origin task/7
+  336  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/sample.py
+  337  "the", "quick", "brown", "fox", "ate", "my", "chickens"/bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/sample.py
+  338  /bin/python3 /home/naledi_thamage/Naledi-Thamage-219-level-1-programming-katas-python/sample.py
+  339  source venv/scripts/activate
+  340  source venv/bin/activate
+  341  pip install pandas matplotlib
+  342  git add raw data.csv
+  343  git add raw_data.csv
+  344  git add 
+  345  git commit -m "add dataset"
+  346  git add notebook/eda.ipynb
+  347  git commit -m "added notebook"
+  348  pip install ipykernel
+  349  /usr/local/bin/python3 -m pip install ipykernel -U --user --force-reinstall
+  350  /usr/local/bin/python3 -m pip install ipython-U --user --force-reinstall
+  351  /usr/local/bin/python3 -m pip install ipython -U --user --force-reinstall
+  352  conda 
+  353  cd git-basic-exercises
+  354  ls -a
+  355  git init
+  356  ls -a
+  357  git status
+  358  ls -a
+  359  git status
+  360  git log
+  361  git add
+  362  git add README.d
+  363  git add README.md
+  364  git status
+  365  git tm --cachedREADME.md
+  366  git rm --cachedREADME.md
+  367  git rm --cached README.md
+  368  git status
+  369  git add README.md
+  370  git commit -m "initial commit"
+  371  git log
+  372  q
+  373  nano README.md
+  374  cat README.md
+  375  git status
+  376  git commit -m "second commit"
+  377  nano README.md
+  378  git commit -m "third commit"
+  379  git add README.md
+  380  git commit -m "secondd commit"
+  381  nano README.md
+  382  git add README.md
+  383  git commit -m "third commit"
+  384  git log
+  385  q
+  386  git log
+  387  git checkout
+  388  f9e9c69a8f7f3c9fd45882f96af52852fcf51e78
+  389  git checkout f9e9c69a8f7f3c9fd45882f96af52852fcf51e78
+  390  cat README.md
+  391  git checkout main
+  392  cat README.md
+  393  git branch
+  394  git checkout -b milkshake-flavours
+  395  git branch
+  396  nano milkshakes.md
+  397  git status
+  398  git add milkshakes.md
+  399  git commit -m "added initial flavours"
+  400  git log
+  401  git checkout main
+  402  git checkout -b history
+  403  git log
+  404  git branch
+  405  history > history.txt
+  406  git add history.txt
+  407  git commit -m "added history"
+  408  git log
+  409  git checkout -b milkshake-flavours
+  410  git checkout milshake-flavours
+  411  git checkout milkshake-flavours
+  412  git log
+  413  nano milkshake.md
+  414  git checkout main
+  415  ls -a
+  416  nano README.md
+  417  git add README.md
+  418  git commit -m "random readme changes"
+  419  git checkout history
+  420  cat README.md
+  421  rm README.md
+  422  echo "booya" > README.md
+  423  git add README.d
+  424  git add README.md
+  425  git commit -m "rewrote readme"
+  426  git checkout main
+  427  ls
+  428  git log
+  429  git checkout milkshakes-flavours
+  430  git checkout milkshake-flavours
+  431  ls
+  432  git log
+  433  git checkout history
+  434  ls
+  435  git log
+  436  git checkout milkshake-flavours
+  437  cat README.md
+  438  rm README.md
+  439  echo "booya" > README.md
+  440  git add README.md
+  441  git commit -m "rewrote readme"
+  442  git checkout milkshake-flavours
+  443  ls
+  444  git log
+  445  git checkout main
+  446  git merge milkshake-flavours
+  447  ls
+  448  git checkout main
+  449  git merge milkshake-flavours
+  450  history
+  451  git branch
+  452  ls
+  453  git merge milkshake-flavours
+  454  git checkout milkshake-flavours
+  455  git branch
+  456  git status
+  457  git add README.md
+  458  git commit -m "rewrote readme"
+  459  git status
+  460  git merge milkshake-flavours
+  461  ls
+  462  git log
+  463  q
+  464  git merge history
+  465  git checkout history
+  466  git status
+  467  git add README.md
+  468  git commit -m "rewrote readme"
+  469  git status
+  470  git merge history
+  471  ls
+  472  git log
+  473  git checkout history
+  474  git log
+  475  git remote add origin git@github.com:naledithamage/git-basic-exercises.git
+  476  git branch -M milkshake-flavours
+  477  git push -u origin milkshake-flavours
+  478  git branch -M history
+  479  git push -u origin history
+  480  cd ../
+  481  git clone git@github.com:Umuzi-org/a-repo-to-clone.git
+  482  cd a-repo-to-clone
+  483  git branch
+  484  git log
+  485  git checkout -b a-branch-with-a-few-commits
+  486  cd
+  487  git checkout a-branch-with-a-few-commits
+  488  cd a-repo-to-clone
+  489  git remove -v
+  490  git checkout a-branch-with-a-few-commits
+  491  git remote -v
+  492  git log
+  493  cd ../
+  494  cd git-basic-exercises
+  495  git log
+  496  cd ../
+  497  mkdir this-will-be-another-repo
+  498  cd this-will-be-another-repo
+  499  git init
+  500  touch README.md
+  501  git add README.md
+  502  git commit -m "new blank file"
+  503  cd ../
+  504  cd git-basic-exercises
+  505  git log
+  506  touch ignore-me.db
+  507  git status
+  508  nano .gitignore
+  509  git status
+  510  cd ../
+  511  cd git-basic-exercises
+  512  nano .gitignore
+  513  mkdir large-directory-that-should-be-local-only
+  514  cd large-directory-that-should-be-local-only/
+  515  cd ../
+  516  cd large-directory-that-should-be-local-only/
+  517  nano README.md
+  518  cd ../
+  519  git status
+  520  nano .gitignore
+  521  git status
+  522  git add .gitignore
+  523  git commit -m "added .gitignore"
+  524  git push 
+  525  cd ../
+  526  git clone git@github.com:Umuzi-org/Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python.git
+  527  cd Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python/
+  528  mkdir data
+  529  mkdir notebook
+  530  touch requirements.txt
+  531  touch .gitignore
+  532  python
+  533  python3
+  534  python3 -m venv venv
+  535  ls
+  536  nano .gitignore
+  537  ls
+  538  git status
+  539  git add . 
+  540  git commit -m "initialise project"
+  541  code .
+  542  cd /tmp
+  543  curl https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-x86_64.sh --output anaconda.sh
+  544  sha256sum anaconda.sh
+  545  bash anaconda.sh
+  546  source ~/.bashrc
+  547  conda list
+  548  cd ../
+  549  cd Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python/
+  550  ls
+  551  cd home
+  552  cd ~
+  553  ls
+  554  cd Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python/
+  555  conda install jupyter
+  556  conda update -n base -c defaults conda
+  557  code . 
+  558  history
+  559  cd Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python/
+  560  git init
+  561  git status
+  562  ls -a
+  563  git add notebook/eda.ipynb
+  564  ls -a
+  565  git status
+  566  git log
+  567  git status
+  568  git commit -m "Exploratory Data Analysis"
+  569  git remote add origin git@github.com:Umuzi-org/Naledi-Thamage-648-bootcamp-exploratory-data-analysis-python.git
+  570  git push origin
+  571  mkdir data
+  572  mkdir notebook
+  573  cd data
+  574  ls 
+  575  cd ../
+  576  touch README.md
+  577  touch requirements.txt
+  578  touch .gitignore
+  579  cd notebook
+  580  code .
+  581  history
+  582  git checkout -b exploratory_analysis
+  583  ls
+  584  git status
+  585  git branch
+  586  git push origin
+  587  git push -u origin exploratory_analysis 
+  588  git checkout main
+  589  ls
+  590  rm -r data
+  591  rm -r notebook
+  592  rm requirements
+  593  rm requirements.txt
+  594  rm .gitignore
+  595  ls
+  596  git status
+  597  git add .
+  598  git -m commit "removed from main branch"
+  599  git commit -m "removed from main branch"
+  600  ls
+  601  git push origin main
+  602  git log
+  603  git checkout 5e86bd632961265a1f7ba822ee85080576ae1a34
+  604  ls
+  605  git branch
+  606  git status
+  607  git checkout main
+  608  git log
+  609  git reset -- hard ec83c88820d7bc6ebfda0582ae801141ebfa95ec
+  610  git status
+  611  ls
+  612  git push origin main --force
+  613  git reset --hard ec83c88820d7bc6ebfda0582ae801141ebfa95ec
+  614  git push origin main --force
+  615  cd ../
+  616  cd git-basic-exercises
+  617  git branch
+  618  ls
+  619  git status
+  620  git checkout main
+  621  ls
+  622  git chexkout milkshake-flavours
+  623  git checkout milkshake-flavours
+  624  git branch
+  625  ls 
+  626  cd ../
+  627  mkdir playground
+  628  cd playground/
+  629  git clone git@github.com:naledithamage/git-basic-exercises.git
+  630  cd git-basic-exercises
+  631  git branch
+  632  git checkout history
+  633  mkdir git-basic-exercises
+  634  cd git-basic-exercises
+  635  ls -a
+  636  git init
+  637  ls -a
+  638  touch README.md
+  639  ls -a
+  640  git log
+  641  git add README.md
+  642  git status
+  643  git commit -m "initial commit"
+  644  git log
+  645  nano README.md
+  646  cat README.md
+  647  git status
+  648  git commit -m "second commit"
+  649  git add README.md
+  650  git commit -m "second commit"
+  651  nano README.md
+  652  git add README.md
+  653  git commit -m "third commit"
+  654  git log
+  655  q
+  656  git checkout 97b565335a040bb8589d5051bd7dc5d1bec47e4b
+  657  cat README.md
+  658  git checkout main
+  659  cat README.md
+  660  git branch
+  661  git checkout -b milkshake-flavours
+  662  git branch
+  663  nano milkshakes.md
+  664  git status
+  665  git add milkshakes.md
+  666  git commit -m "added initial flavours"
+  667  git loh
+  668  git log
+  669  git checkout main
+  670  ls
+  671  git checkout main
+  672  git status
+  673  cd history
+  674  cd main
+  675  history > history.txt
